@@ -1,0 +1,47 @@
+name: coffee_explorer_app
+description: A coffee explorer Flutter app with favorites and chart.
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fl_chart: ^0.63.0
+  google_fonts: ^6.2.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/cappuccino.jpeg
+    - assets/latte.jpg.png
+    - assets/turkish.png
+    - assets/sw.png
+    - assets/flat.png
+    - assets/viet.png
+    - assets/ilatte.png
+    - assets/espresso.png
+    - assets/longb.png
+    - assets/iamericano.png
+    - assets/logo.png
+    - assets/coffee_background.jpg
+    - assets/coffeedetails_background.jpg
+    - assets/images/latte_history.jpg
+    - assets/images/history.jpeg
+    - assets/images/prices.jpeg
+    - assets/images/ff.jpg
+    - assets/images/cappucino_info.jpeg
+    - assets/images/macchiato_info.jpeg
+    - assets/images/fwhite_info.jpg
+    - assets/images/espresso_info.jpeg
+    - assets/images/lb_info.jpeg
+    - assets/images/ilatte_info.jpg
+    - assets/images/iamericano_info.jpg
+    - assets/images/turkish_info.jpeg
+    - assets/images/viet_info.jpeg
+    - assets/images/swedish_info.jpeg
+
+    
+
+
