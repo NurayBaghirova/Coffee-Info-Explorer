@@ -4,8 +4,8 @@
 ## Group Number: 606.23E
 
 ## Team Members:
-- Lala Orujova
-- Nuray Baghirova
-- Nisa Rzazada
+- Lala Orujova - InfoTextPage
+- Nuray Baghirova - DetailsPage,HomePage
+- Nisa Rzazada - Main,DataPage
 
 
